@@ -1,0 +1,6 @@
+public enum Category{
+    PREY, PARROTS, OWLS, PIGEONS, FLIGHTLESS, SHOREBIRDS,WATERFOWL,OTHER
+    }
+
+
+
